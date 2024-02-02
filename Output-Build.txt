@@ -1,0 +1,5 @@
+﻿Build started at 06:27 م...
+1>------ Build started: Project: TopKFrequent, Configuration: Debug Any CPU ------
+1>  TopKFrequent -> C:\Users\ahmed\Desktop\Data structure\TopKFrequent\TopKFrequent\bin\Debug\TopKFrequent.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 06:27 م and took 00.256 seconds ==========
